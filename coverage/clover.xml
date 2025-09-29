@@ -1,0 +1,357 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1759184425188" clover="3.2.0">
+  <project timestamp="1759184425188" name="All files">
+    <metrics statements="249" coveredstatements="124" conditionals="87" coveredconditionals="52" methods="21" coveredmethods="13" elements="357" coveredelements="189" complexity="0" loc="249" ncloc="249" packages="12" files="22" classes="22"/>
+    <package name="src">
+      <metrics statements="52" coveredstatements="26" conditionals="18" coveredconditionals="12" methods="6" coveredmethods="5"/>
+      <file name="app.controller.ts" path="C:\wamp64\www\pdp\api-case-pdp\src\app.controller.ts">
+        <metrics statements="24" coveredstatements="24" conditionals="16" coveredconditionals="12" methods="5" coveredmethods="5"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="3" count="1" type="stmt"/>
+        <line num="8" count="1" type="stmt"/>
+        <line num="13" count="1" type="stmt"/>
+        <line num="14" count="1" type="stmt"/>
+        <line num="18" count="1" type="stmt"/>
+        <line num="20" count="15" type="cond" truecount="6" falsecount="2"/>
+        <line num="21" count="15" type="cond" truecount="3" falsecount="1"/>
+        <line num="22" count="15" type="cond" truecount="3" falsecount="1"/>
+        <line num="23" count="15" type="stmt"/>
+        <line num="42" count="1" type="stmt"/>
+        <line num="44" count="3" type="stmt"/>
+        <line num="45" count="3" type="stmt"/>
+        <line num="46" count="3" type="stmt"/>
+        <line num="47" count="3" type="stmt"/>
+        <line num="48" count="3" type="stmt"/>
+        <line num="49" count="3" type="stmt"/>
+        <line num="51" count="3" type="stmt"/>
+        <line num="96" count="1" type="stmt"/>
+        <line num="97" count="7" type="stmt"/>
+        <line num="98" count="1" type="stmt"/>
+        <line num="117" count="1" type="stmt"/>
+        <line num="118" count="6" type="stmt"/>
+        <line num="119" count="4" type="stmt"/>
+      </file>
+      <file name="app.module.ts" path="C:\wamp64\www\pdp\api-case-pdp\src\app.module.ts">
+        <metrics statements="9" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="0" type="stmt"/>
+        <line num="2" count="0" type="stmt"/>
+        <line num="3" count="0" type="stmt"/>
+        <line num="4" count="0" type="stmt"/>
+        <line num="5" count="0" type="stmt"/>
+        <line num="6" count="0" type="stmt"/>
+        <line num="7" count="0" type="stmt"/>
+        <line num="8" count="0" type="stmt"/>
+        <line num="24" count="0" type="stmt"/>
+      </file>
+      <file name="app.service.ts" path="C:\wamp64\www\pdp\api-case-pdp\src\app.service.ts">
+        <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="4" count="1" type="stmt"/>
+      </file>
+      <file name="main.ts" path="C:\wamp64\www\pdp\api-case-pdp\src\main.ts">
+        <metrics statements="17" coveredstatements="0" conditionals="2" coveredconditionals="0" methods="1" coveredmethods="0"/>
+        <line num="1" count="0" type="stmt"/>
+        <line num="2" count="0" type="stmt"/>
+        <line num="3" count="0" type="stmt"/>
+        <line num="4" count="0" type="stmt"/>
+        <line num="5" count="0" type="stmt"/>
+        <line num="8" count="0" type="stmt"/>
+        <line num="11" count="0" type="stmt"/>
+        <line num="18" count="0" type="stmt"/>
+        <line num="27" count="0" type="stmt"/>
+        <line num="30" count="0" type="stmt"/>
+        <line num="38" count="0" type="stmt"/>
+        <line num="39" count="0" type="stmt"/>
+        <line num="45" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="46" count="0" type="stmt"/>
+        <line num="47" count="0" type="stmt"/>
+        <line num="48" count="0" type="stmt"/>
+        <line num="51" count="0" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.api.products">
+      <metrics statements="20" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      <file name="constants.ts" path="C:\wamp64\www\pdp\api-case-pdp\src\api\products\constants.ts">
+        <metrics statements="6" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="0" type="stmt"/>
+        <line num="3" count="0" type="stmt"/>
+        <line num="13" count="0" type="stmt"/>
+        <line num="23" count="0" type="stmt"/>
+        <line num="32" count="0" type="stmt"/>
+        <line num="40" count="0" type="stmt"/>
+      </file>
+      <file name="index.ts" path="C:\wamp64\www\pdp\api-case-pdp\src\api\products\index.ts">
+        <metrics statements="7" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="0" type="stmt"/>
+        <line num="2" count="0" type="stmt"/>
+        <line num="3" count="0" type="stmt"/>
+        <line num="4" count="0" type="stmt"/>
+        <line num="5" count="0" type="stmt"/>
+        <line num="6" count="0" type="stmt"/>
+        <line num="7" count="0" type="stmt"/>
+      </file>
+      <file name="products.module.ts" path="C:\wamp64\www\pdp\api-case-pdp\src\api\products\products.module.ts">
+        <metrics statements="7" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="0" type="stmt"/>
+        <line num="2" count="0" type="stmt"/>
+        <line num="3" count="0" type="stmt"/>
+        <line num="4" count="0" type="stmt"/>
+        <line num="5" count="0" type="stmt"/>
+        <line num="6" count="0" type="stmt"/>
+        <line num="14" count="0" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.api.products.controllers">
+      <metrics statements="9" coveredstatements="9" conditionals="12" coveredconditionals="9" methods="2" coveredmethods="2"/>
+      <file name="products.controller.ts" path="C:\wamp64\www\pdp\api-case-pdp\src\api\products\controllers\products.controller.ts">
+        <metrics statements="9" coveredstatements="9" conditionals="12" coveredconditionals="9" methods="2" coveredmethods="2"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="8" count="1" type="stmt"/>
+        <line num="15" count="1" type="stmt"/>
+        <line num="16" count="1" type="stmt"/>
+        <line num="17" count="1" type="stmt"/>
+        <line num="21" count="1" type="stmt"/>
+        <line num="22" count="4" type="cond" truecount="3" falsecount="1"/>
+        <line num="52" count="1" type="cond" truecount="6" falsecount="2"/>
+        <line num="53" count="3" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.api.products.dtos">
+      <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      <file name="get-product.dto.ts" path="C:\wamp64\www\pdp\api-case-pdp\src\api\products\dtos\get-product.dto.ts">
+        <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="2" type="stmt"/>
+        <line num="2" count="2" type="stmt"/>
+        <line num="4" count="2" type="stmt"/>
+        <line num="16" count="2" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.api.products.entities">
+      <metrics statements="13" coveredstatements="13" conditionals="8" coveredconditionals="6" methods="0" coveredmethods="0"/>
+      <file name="product.entity.ts" path="C:\wamp64\www\pdp\api-case-pdp\src\api\products\entities\product.entity.ts">
+        <metrics statements="13" coveredstatements="13" conditionals="8" coveredconditionals="6" methods="0" coveredmethods="0"/>
+        <line num="1" count="5" type="stmt"/>
+        <line num="10" count="5" type="stmt"/>
+        <line num="16" count="5" type="stmt"/>
+        <line num="22" count="5" type="stmt"/>
+        <line num="30" count="5" type="stmt"/>
+        <line num="38" count="5" type="stmt"/>
+        <line num="46" count="5" type="stmt"/>
+        <line num="55" count="5" type="stmt"/>
+        <line num="63" count="5" type="stmt"/>
+        <line num="71" count="5" type="stmt"/>
+        <line num="80" count="5" type="cond" truecount="3" falsecount="1"/>
+        <line num="89" count="5" type="cond" truecount="3" falsecount="1"/>
+        <line num="99" count="5" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.api.products.providers">
+      <metrics statements="10" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+      <file name="products.provider.ts" path="C:\wamp64\www\pdp\api-case-pdp\src\api\products\providers\products.provider.ts">
+        <metrics statements="10" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+        <line num="2" count="0" type="stmt"/>
+        <line num="3" count="0" type="stmt"/>
+        <line num="5" count="0" type="stmt"/>
+        <line num="6" count="0" type="stmt"/>
+        <line num="7" count="0" type="stmt"/>
+        <line num="9" count="0" type="stmt"/>
+        <line num="14" count="0" type="stmt"/>
+        <line num="26" count="0" type="stmt"/>
+        <line num="31" count="0" type="stmt"/>
+        <line num="36" count="0" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.api.products.repositories">
+      <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      <file name="product.repository.ts" path="C:\wamp64\www\pdp\api-case-pdp\src\api\products\repositories\product.repository.ts">
+        <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="2" type="stmt"/>
+        <line num="4" count="2" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.api.products.services">
+      <metrics statements="26" coveredstatements="26" conditionals="8" coveredconditionals="7" methods="2" coveredmethods="2"/>
+      <file name="products.service.ts" path="C:\wamp64\www\pdp\api-case-pdp\src\api\products\services\products.service.ts">
+        <metrics statements="26" coveredstatements="26" conditionals="8" coveredconditionals="7" methods="2" coveredmethods="2"/>
+        <line num="1" count="2" type="stmt"/>
+        <line num="2" count="2" type="stmt"/>
+        <line num="3" count="2" type="stmt"/>
+        <line num="4" count="2" type="stmt"/>
+        <line num="6" count="2" type="stmt"/>
+        <line num="7" count="2" type="stmt"/>
+        <line num="10" count="2" type="stmt"/>
+        <line num="11" count="21" type="stmt"/>
+        <line num="12" count="21" type="stmt"/>
+        <line num="16" count="21" type="cond" truecount="3" falsecount="1"/>
+        <line num="18" count="21" type="stmt"/>
+        <line num="22" count="22" type="stmt"/>
+        <line num="24" count="22" type="stmt"/>
+        <line num="26" count="22" type="stmt"/>
+        <line num="27" count="20" type="cond" truecount="2" falsecount="0"/>
+        <line num="28" count="6" type="stmt"/>
+        <line num="29" count="6" type="stmt"/>
+        <line num="32" count="2" type="stmt"/>
+        <line num="36" count="16" type="stmt"/>
+        <line num="40" count="14" type="cond" truecount="2" falsecount="0"/>
+        <line num="41" count="2" type="stmt"/>
+        <line num="45" count="12" type="stmt"/>
+        <line num="46" count="12" type="stmt"/>
+        <line num="47" count="11" type="stmt"/>
+        <line num="49" count="1" type="stmt"/>
+        <line num="52" count="12" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.database">
+      <metrics statements="53" coveredstatements="0" conditionals="21" coveredconditionals="0" methods="4" coveredmethods="0"/>
+      <file name="constants.ts" path="C:\wamp64\www\pdp\api-case-pdp\src\database\constants.ts">
+        <metrics statements="1" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="0" type="stmt"/>
+      </file>
+      <file name="database.constants.ts" path="C:\wamp64\www\pdp\api-case-pdp\src\database\database.constants.ts">
+        <metrics statements="3" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="0" type="stmt"/>
+        <line num="10" count="0" type="stmt"/>
+        <line num="21" count="0" type="stmt"/>
+      </file>
+      <file name="database.module.ts" path="C:\wamp64\www\pdp\api-case-pdp\src\database\database.module.ts">
+        <metrics statements="6" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="0" type="stmt"/>
+        <line num="2" count="0" type="stmt"/>
+        <line num="3" count="0" type="stmt"/>
+        <line num="4" count="0" type="stmt"/>
+        <line num="5" count="0" type="stmt"/>
+        <line num="25" count="0" type="stmt"/>
+      </file>
+      <file name="database.provider.ts" path="C:\wamp64\www\pdp\api-case-pdp\src\database\database.provider.ts">
+        <metrics statements="40" coveredstatements="0" conditionals="21" coveredconditionals="0" methods="4" coveredmethods="0"/>
+        <line num="1" count="0" type="stmt"/>
+        <line num="3" count="0" type="stmt"/>
+        <line num="4" count="0" type="stmt"/>
+        <line num="9" count="0" type="stmt"/>
+        <line num="10" count="0" type="stmt"/>
+        <line num="11" count="0" type="stmt"/>
+        <line num="16" count="0" type="stmt"/>
+        <line num="26" count="0" type="stmt"/>
+        <line num="29" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="30" count="0" type="stmt"/>
+        <line num="31" count="0" type="stmt"/>
+        <line num="33" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="34" count="0" type="stmt"/>
+        <line num="35" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="36" count="0" type="stmt"/>
+        <line num="39" count="0" type="stmt"/>
+        <line num="49" count="0" type="stmt"/>
+        <line num="50" count="0" type="stmt"/>
+        <line num="51" count="0" type="stmt"/>
+        <line num="52" count="0" type="stmt"/>
+        <line num="53" count="0" type="stmt"/>
+        <line num="55" count="0" type="cond" truecount="0" falsecount="7"/>
+        <line num="56" count="0" type="stmt"/>
+        <line num="59" count="0" type="stmt"/>
+        <line num="80" count="0" type="stmt"/>
+        <line num="93" count="0" type="stmt"/>
+        <line num="94" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="95" count="0" type="stmt"/>
+        <line num="98" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="99" count="0" type="stmt"/>
+        <line num="108" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="109" count="0" type="stmt"/>
+        <line num="124" count="0" type="stmt"/>
+        <line num="131" count="0" type="stmt"/>
+        <line num="135" count="0" type="stmt"/>
+        <line num="136" count="0" type="stmt"/>
+        <line num="137" count="0" type="stmt"/>
+        <line num="138" count="0" type="stmt"/>
+        <line num="139" count="0" type="stmt"/>
+        <line num="141" count="0" type="stmt"/>
+      </file>
+      <file name="index.ts" path="C:\wamp64\www\pdp\api-case-pdp\src\database\index.ts">
+        <metrics statements="3" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="0" type="stmt"/>
+        <line num="2" count="0" type="stmt"/>
+        <line num="3" count="0" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.database.migrations">
+      <metrics statements="11" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="0"/>
+      <file name="1759115006498-CreateProductsTable.ts" path="C:\wamp64\www\pdp\api-case-pdp\src\database\migrations\1759115006498-CreateProductsTable.ts">
+        <metrics statements="11" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="0"/>
+        <line num="3" count="0" type="stmt"/>
+        <line num="4" count="0" type="stmt"/>
+        <line num="7" count="0" type="stmt"/>
+        <line num="25" count="0" type="stmt"/>
+        <line num="29" count="0" type="stmt"/>
+        <line num="33" count="0" type="stmt"/>
+        <line num="38" count="0" type="stmt"/>
+        <line num="48" count="0" type="stmt"/>
+        <line num="49" count="0" type="stmt"/>
+        <line num="50" count="0" type="stmt"/>
+        <line num="51" count="0" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.filters">
+      <metrics statements="23" coveredstatements="23" conditionals="14" coveredconditionals="13" methods="1" coveredmethods="1"/>
+      <file name="http-exception.filter.ts" path="C:\wamp64\www\pdp\api-case-pdp\src\filters\http-exception.filter.ts">
+        <metrics statements="23" coveredstatements="23" conditionals="14" coveredconditionals="13" methods="1" coveredmethods="1"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="12" count="1" type="stmt"/>
+        <line num="13" count="11" type="stmt"/>
+        <line num="16" count="10" type="stmt"/>
+        <line num="17" count="10" type="stmt"/>
+        <line num="18" count="10" type="stmt"/>
+        <line num="24" count="10" type="cond" truecount="2" falsecount="0"/>
+        <line num="25" count="8" type="stmt"/>
+        <line num="26" count="8" type="stmt"/>
+        <line num="28" count="8" type="cond" truecount="2" falsecount="0"/>
+        <line num="29" count="5" type="stmt"/>
+        <line num="30" count="5" type="stmt"/>
+        <line num="32" count="3" type="cond" truecount="1" falsecount="1"/>
+        <line num="33" count="3" type="cond" truecount="2" falsecount="0"/>
+        <line num="37" count="2" type="stmt"/>
+        <line num="38" count="2" type="stmt"/>
+        <line num="39" count="2" type="stmt"/>
+        <line num="42" count="2" type="stmt"/>
+        <line num="48" count="10" type="stmt"/>
+        <line num="58" count="10" type="cond" truecount="2" falsecount="0"/>
+        <line num="59" count="9" type="cond" truecount="2" falsecount="0"/>
+        <line num="60" count="9" type="stmt"/>
+        <line num="65" count="10" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.seeder">
+      <metrics statements="26" coveredstatements="21" conditionals="6" coveredconditionals="5" methods="3" coveredmethods="3"/>
+      <file name="seeder.module.ts" path="C:\wamp64\www\pdp\api-case-pdp\src\seeder\seeder.module.ts">
+        <metrics statements="5" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="0" type="stmt"/>
+        <line num="2" count="0" type="stmt"/>
+        <line num="3" count="0" type="stmt"/>
+        <line num="4" count="0" type="stmt"/>
+        <line num="11" count="0" type="stmt"/>
+      </file>
+      <file name="seeder.service.ts" path="C:\wamp64\www\pdp\api-case-pdp\src\seeder\seeder.service.ts">
+        <metrics statements="21" coveredstatements="21" conditionals="6" coveredconditionals="5" methods="3" coveredmethods="3"/>
+        <line num="1" count="2" type="stmt"/>
+        <line num="2" count="2" type="stmt"/>
+        <line num="3" count="2" type="stmt"/>
+        <line num="4" count="2" type="stmt"/>
+        <line num="7" count="2" type="stmt"/>
+        <line num="8" count="12" type="stmt"/>
+        <line num="12" count="12" type="cond" truecount="3" falsecount="1"/>
+        <line num="16" count="9" type="stmt"/>
+        <line num="18" count="9" type="stmt"/>
+        <line num="19" count="8" type="cond" truecount="2" falsecount="0"/>
+        <line num="20" count="2" type="stmt"/>
+        <line num="21" count="2" type="stmt"/>
+        <line num="24" count="6" type="stmt"/>
+        <line num="59" count="6" type="stmt"/>
+        <line num="60" count="6" type="stmt"/>
+        <line num="61" count="5" type="stmt"/>
+        <line num="63" count="1" type="stmt"/>
+        <line num="64" count="1" type="stmt"/>
+        <line num="69" count="4" type="stmt"/>
+        <line num="70" count="4" type="stmt"/>
+        <line num="71" count="3" type="stmt"/>
+      </file>
+    </package>
+  </project>
+</coverage>

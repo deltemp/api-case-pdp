@@ -150,7 +150,7 @@ npm run build             # Compilar TypeScript
 ## 📚 Documentação da API (Swagger)
 
 A documentação interativa da API está disponível em:
-**http://localhost:3000/api**
+**http://localhost:3000/api/docs**
 
 ### Endpoints Disponíveis:
 

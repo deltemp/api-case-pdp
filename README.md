@@ -21,7 +21,7 @@
   <!--[![Backers on Open Collective](https://opencollective.com/nest/backers/badge.svg)](https://opencollective.com/nest#backer)
   [![Sponsors on Open Collective](https://opencollective.com/nest/sponsors/badge.svg)](https://opencollective.com/nest#sponsor)-->
 
-# PDP System - Backend API (NestJS)
+# PDP System - Backend API (NestJS) [![codecov](https://codecov.io/gh/deltemp/api-case-pdp/graph/badge.svg)](https://codecov.io/gh/deltemp/api-case-pdp)
 
 API REST para sistema de Página de Detalhes do Produto (PDP) desenvolvida com NestJS, TypeORM e PostgreSQL/SQLite.
 
